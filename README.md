@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨🏾‍💻 About Me:
 Olá, me chamo allen sou desenvolvedor web! 👨🏾‍💻<br>📌 | Atualmente estudando e aplicando ( Procurar de trabalho)
 
 
